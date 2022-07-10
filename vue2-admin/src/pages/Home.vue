@@ -65,6 +65,7 @@
           </el-menu-item-group>
         </el-submenu>
         -->
+        <!--
         <el-menu-item index="4">
           <i class="el-icon-link"></i>
           <span slot="title">
@@ -83,6 +84,7 @@
             <a href="https://t.me/Noi_q">诚招广告位</a>
           </span>
         </el-menu-item>
+        -->
       </el-menu>
     </div>
 
